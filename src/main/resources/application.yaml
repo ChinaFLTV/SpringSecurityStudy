@@ -1,0 +1,8 @@
+server:
+  port: 8001
+
+#spring:
+#  security:
+#    user:
+#      name: Dage
+#      password: 123
